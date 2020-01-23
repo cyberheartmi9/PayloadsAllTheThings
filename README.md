@@ -5,6 +5,8 @@ I <3 pull requests :)
 
 # Tools
 * [Kali Linux](https://www.kali.org/)
+* [Wireshark](https://www.wireshark.org/)
+* [Spyse](https://spyse.com)
 * [Web Developper](https://addons.mozilla.org/en-Gb/firefox/addon/web-developer/)
 * [Hackbar](https://addons.mozilla.org/en-Gb/firefox/addon/hackbar/?src=search)
 * [Burp Proxy](https://portswigger.net)
